@@ -1,0 +1,22 @@
+C:\Users\Adrian Stuar\Desktop\Delegados\bin\Debug\netcoreapp2.1\Delegados.deps.json
+C:\Users\Adrian Stuar\Desktop\Delegados\bin\Debug\netcoreapp2.1\Delegados.runtimeconfig.json
+C:\Users\Adrian Stuar\Desktop\Delegados\bin\Debug\netcoreapp2.1\Delegados.runtimeconfig.dev.json
+C:\Users\Adrian Stuar\Desktop\Delegados\bin\Debug\netcoreapp2.1\Delegados.dll
+C:\Users\Adrian Stuar\Desktop\Delegados\bin\Debug\netcoreapp2.1\Delegados.pdb
+C:\Users\Adrian Stuar\Desktop\Delegados\obj\Debug\netcoreapp2.1\Delegados.csprojAssemblyReference.cache
+C:\Users\Adrian Stuar\Desktop\Delegados\obj\Debug\netcoreapp2.1\Delegados.csproj.CoreCompileInputs.cache
+C:\Users\Adrian Stuar\Desktop\Delegados\obj\Debug\netcoreapp2.1\Delegados.AssemblyInfoInputs.cache
+C:\Users\Adrian Stuar\Desktop\Delegados\obj\Debug\netcoreapp2.1\Delegados.AssemblyInfo.cs
+C:\Users\Adrian Stuar\Desktop\Delegados\obj\Debug\netcoreapp2.1\Delegados.dll
+C:\Users\Adrian Stuar\Desktop\Delegados\obj\Debug\netcoreapp2.1\Delegados.pdb
+C:\Users\sebastianrojas\source\repos\Clases\Clases\Delegados\bin\Debug\netcoreapp2.1\Delegados.deps.json
+C:\Users\sebastianrojas\source\repos\Clases\Clases\Delegados\bin\Debug\netcoreapp2.1\Delegados.runtimeconfig.json
+C:\Users\sebastianrojas\source\repos\Clases\Clases\Delegados\bin\Debug\netcoreapp2.1\Delegados.runtimeconfig.dev.json
+C:\Users\sebastianrojas\source\repos\Clases\Clases\Delegados\bin\Debug\netcoreapp2.1\Delegados.dll
+C:\Users\sebastianrojas\source\repos\Clases\Clases\Delegados\bin\Debug\netcoreapp2.1\Delegados.pdb
+C:\Users\sebastianrojas\source\repos\Clases\Clases\Delegados\obj\Debug\netcoreapp2.1\Delegados.csprojAssemblyReference.cache
+C:\Users\sebastianrojas\source\repos\Clases\Clases\Delegados\obj\Debug\netcoreapp2.1\Delegados.csproj.CoreCompileInputs.cache
+C:\Users\sebastianrojas\source\repos\Clases\Clases\Delegados\obj\Debug\netcoreapp2.1\Delegados.AssemblyInfoInputs.cache
+C:\Users\sebastianrojas\source\repos\Clases\Clases\Delegados\obj\Debug\netcoreapp2.1\Delegados.AssemblyInfo.cs
+C:\Users\sebastianrojas\source\repos\Clases\Clases\Delegados\obj\Debug\netcoreapp2.1\Delegados.dll
+C:\Users\sebastianrojas\source\repos\Clases\Clases\Delegados\obj\Debug\netcoreapp2.1\Delegados.pdb
